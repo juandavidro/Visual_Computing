@@ -33,6 +33,11 @@ Complete la tabla:
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
 
+Podemos observar de este ejercicio con cuanta facilidad se logra engañar a nuestro cerebro apartir del ocultamiento de fracciones de las imagenes que estamos observando, la configuracion geometrica y el juego de colores en donde nuestro cerebro intenta encontrar patrones o relaciones que estan alejados de la realidad al intentar dar sntido o significado a lo que observamos.
+
+Uno de los posibles temas a profundizar seria el de como la percepcion de figuras geometricas distorciona lo que nosotros vemos y la forma en como nuestro cerebro procesa informacion alterando en ocaciones la realidad de lo que en realidad puede estar sucediendo.
+
+
 ## Entrega
 
 * Modo de entrega: clonar este repo y subirlo a `https://github.com/username/cv/t1`.
