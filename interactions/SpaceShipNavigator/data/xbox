@@ -1,0 +1,8 @@
+control
+xPos	x position	3	SLIDER	Eje X	0	1.0	0.0
+yPos	y position	3	SLIDER	Eje Y	0	1.0	0.0
+yRot	y rotation	3	SLIDER	Rotación Y	0	1.0	0.0
+xRot	x rotation	3	SLIDER	Rotación X	0	1.0	0.0
+zPos	z position	3	SLIDER	Eje Z	0	1.0	0.0
+X	x button	1	BUTTON	Botón 0	0	0.0	0.0
+Y	y Button	1	BUTTON	Botón 2	0	0.0	0.0
